@@ -1,6 +1,6 @@
 .container{
     border-radius: 2rem;
-    box-shadow: 20px 20px 30px #bfbebe;
+    box-shadow: 0px 20px 30px #bfbebe;
     display: grid;
     background-color: #f1f1ee;
     grid-template-columns: 200px auto;
