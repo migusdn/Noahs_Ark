@@ -1,4 +1,5 @@
 .container{
+    border-radius: 2rem;
     display: grid;
     background-color: #f1f1ee;
     grid-template-columns: 200px auto;
@@ -58,7 +59,7 @@
     min-height: 100px;
 }
 .text{
-    padding-left: 15px;
+
     margin-top: 10px;
     font-size: 17px;
 }
