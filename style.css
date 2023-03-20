@@ -1,0 +1,64 @@
+.container{
+    display: grid;
+    background-color: #f1f1ee;
+    grid-template-columns: 200px auto;
+    grid-template-rows: 400px;
+    grid-column-gap: 32px;
+    padding: 32px 32px 0;
+}
+#profile{
+    grid-column-start: 1;
+    grid-column-end: 1;
+    padding: 0;
+    background-color: #f1f1ee;
+}
+#contents{
+    padding: 10px;
+    background-color: #f1f1ee;
+    word-break: break-all;
+    grid-column-start: 2;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end:3;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: left;
+}
+#profile_img{
+    background-color: white;
+    border-radius: 2rem;
+    width: 200px;
+    height: 200px;
+}
+.container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
+#name{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 30px;
+    text-align: left;
+    font-weight: bold;
+}
+#description{
+    margin-top: 15px;
+    margin-left: 25px;
+    font-size: 15px;
+    text-align: left;
+}
+.field{
+    /*width: 150px;*/
+    font-size: 20px;
+}
+.section{
+    min-height: 100px;
+}
+.text{
+    padding-left: 15px;
+    margin-top: 10px;
+    font-size: 17px;
+}
