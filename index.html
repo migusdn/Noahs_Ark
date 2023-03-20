@@ -1,15 +1,44 @@
 <html>
 <head>
-<meta charset="utf-8">
+    <meta charset="utf-8">
+    <style>
+        .field {
+            margin-top: 10px;
+            font-size: 20px;
+        }
+
+        #container {
+            justify-content: center;
+            display: flex;
+            padding: 40px;
+            padding-left: 15px;
+            padding-right: 15px;
+            background: #f1f1ee;
+        }
+    </style>
 </head>
-	<body>
-		<div style="display: flex; padding:20px; background: #f1f1ee;">
-			<div>
-				<img src="noel.png">
-			</div>
-			<div>
-				텍스트
-			</div>
-		</div>
-	</body>
+<body>
+<div id="container">
+    <div style="background: white; border-radius: 2rem;justify-content: center">
+        <img src="noel.png" width="300px">
+    </div>
+    <div style="margin-left: 30px; background:white;width: 300px; border-radius:2rem">
+        <div style="margin: 32px;">
+            <div id="name" style="font-size: 36px; font-weight: 500">
+                텍스트
+            </div>
+            <div class="field">
+                소개
+            </div>
+            <div class="field">잘하는 것</div>
+            <div class="field">연락처</div>
+            <div class="field">메일</div>
+            <div class="field">좋아하는거</div>
+
+        </div>
+
+
+    </div>
+</div>
+</body>
 </html>
