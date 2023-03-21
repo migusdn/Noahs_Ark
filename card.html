@@ -55,6 +55,7 @@
          만들기!
      </button>
      <p id="result"></p>
+     <button id="copy">클립보드로 복사하기</button>
  </form>
 
 
@@ -91,6 +92,12 @@
         document.getElementById('result').innerText=
         location.href+'?'+encodeData(data);
     });
+    document.getElementById('copy').addEventListener('click',(e)=>{
+        var copyText = document.getElementById('result');
+        navigator.clipboard.writeText(copyText.innerText).then(res=>{
+            alert("텍스트가 복사되었습니다!.")
+        })
+    })
     function encodeData(data) {
         return Object.keys(data).map(function(key) {
             return [key, data[key]].map(encodeURIComponent).join("=");
