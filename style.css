@@ -8,6 +8,7 @@
     grid-column-gap: 50px;
     padding: 32px 32px 0;
     margin-right: 20px;
+    margin-left: 20px;
 }
 #profile{
     grid-column-start: 1;
