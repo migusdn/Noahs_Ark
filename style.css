@@ -1,3 +1,7 @@
+body{
+    font-family: 'Apple SD Gothic Neo';
+}
+
 .container{
     border-radius: 2rem;
     box-shadow: 0px 20px 30px #bfbebe;

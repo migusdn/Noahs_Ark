@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/font-applesdgothicneo@1.0/all.min.css">
     <link href="style.css" type="text/css" rel="stylesheet">
 </head>
 <body>
@@ -95,8 +96,9 @@
     document.getElementById('copy').addEventListener('click',(e)=>{
         var copyText = document.getElementById('result');
         navigator.clipboard.writeText(copyText.innerText).then(res=>{
-            alert("텍스트가 복사되었습니다!.")
-        })
+            alert("텍스트가 복사되었습니다!.");
+        });
+        e.preventDefault();
     })
     function encodeData(data) {
         return Object.keys(data).map(function(key) {
