@@ -1,7 +1,7 @@
 
 ![Logo](https://user-images.githubusercontent.com/44918187/227492031-53009c6c-ce67-4f5a-9ef7-a4d5af23951d.png)
 <h1>
-<img src="https://user-images.githubusercontent.com/44918187/226564505-cdffa7b6-71d1-499f-97d2-6b1c85205ddc.png" width="50">
+<img src="https://user-images.githubusercontent.com/44918187/226564505-cdffa7b6-71d1-499f-97d2-6b1c85205ddc.png" width="30">
 <label>re:Q</label>
 </h1>
 
