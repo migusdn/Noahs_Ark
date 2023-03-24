@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6fb55f7-a794-49dd-a792-84eb5e62d392" name="Changes" comment="fix responsive style">
+    <list default="true" id="b6fb55f7-a794-49dd-a792-84eb5e62d392" name="Changes" comment="edit readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -59,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679309989917</updated>
       <workItem from="1679309991103" duration="24160000" />
-      <workItem from="1679650749829" duration="1558000" />
+      <workItem from="1679650749829" duration="2588000" />
     </task>
     <task id="LOCAL-00001" summary="ddd">
       <created>1679310223474</created>
@@ -215,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679651272474</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="edit readme">
+      <created>1679652478196</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1679652478196</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +245,7 @@
     <MESSAGE value="asdfasdfsadf" />
     <MESSAGE value="fix" />
     <MESSAGE value="fix responsive style" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix responsive style" />
+    <MESSAGE value="edit readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit readme" />
   </component>
 </project>
