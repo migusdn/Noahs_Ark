@@ -1,5 +1,5 @@
 
-<style>
+<style type="text/css">
     span{
         background-color: aqua;
     }
