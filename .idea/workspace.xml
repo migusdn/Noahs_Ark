@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6fb55f7-a794-49dd-a792-84eb5e62d392" name="Changes" comment="edit readme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679309989917</updated>
       <workItem from="1679309991103" duration="24160000" />
-      <workItem from="1679650749829" duration="4580000" />
+      <workItem from="1679650749829" duration="5029000" />
     </task>
     <task id="LOCAL-00001" summary="ddd">
       <created>1679310223474</created>
@@ -277,7 +278,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679654751404</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="edit readme">
+      <created>1679655579059</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1679655579059</updated>
+    </task>
+    <task id="LOCAL-00033" summary="edit readme">
+      <created>1679655639414</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1679655639414</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
