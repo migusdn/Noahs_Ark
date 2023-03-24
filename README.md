@@ -34,13 +34,12 @@ re:Q는 나와 우리를 아래처럼 부르기로 했어요.
 ## re:Q의 감정도장
 re:Q의 감정도장을 여러분께 소개해드릴께요.
 ![자산 11](https://user-images.githubusercontent.com/44918187/227509011-569fd8c5-9095-41b3-ba5f-499b04a84896.png)
-<div> 
+
 <img src="https://user-images.githubusercontent.com/44918187/227511025-d2dbb9bb-efbc-4d18-9e78-382bcfa1a9dd.png" width="49%" align="left" ><img src="https://user-images.githubusercontent.com/44918187/227511031-565fe0aa-9328-45cd-bfe6-6a2084fd2833.png" width="49%" align="right">
-</div>
 <img src="https://user-images.githubusercontent.com/44918187/227511037-f7a49c13-771b-436c-b5f5-2a3e9c5e0372.png" width="49%" align="left" ><img src="https://user-images.githubusercontent.com/44918187/227511041-bb88570f-c530-481f-9452-b8c10ee76e6d.png" width="49%" align="right">
 <img src="https://user-images.githubusercontent.com/44918187/227511042-571530a6-0bae-49e5-9633-8ca2ed69be84.png" width="49%" align="left" ><img src="https://user-images.githubusercontent.com/44918187/227511044-390eaade-f49e-41f1-aa07-15aeaa60016e.png" width="49%" align="right">
 <img src="https://user-images.githubusercontent.com/44918187/227511048-c7ad7c3e-9d50-436b-bd60-7ebd15f62c27.png" width="49%" align="left" ><img src="https://user-images.githubusercontent.com/44918187/227511050-fa3ff2ea-e4a0-41d4-89c7-2810209d6296.png" width="49%" align="right">
-
+&nbsp;
 ## :pushpin: Features
 - 프로젝트 일정 관리
 - 팀원 과의 소통
