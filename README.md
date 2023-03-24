@@ -13,6 +13,13 @@ Apple Developer Academy @ POSTECH, Afternoon Session 6 team's MC1 Project
 
 re:Q는 팀 활동에서 우리의 솔직함을 이끌어 낼 수 있는 여러가지 방법을 제시하는 Notion Template입니다.
 
+#Branding Stroy
+
+## re:Q
+
+### 're question', 're quest', 're quire'
+### 우리는 <span style='background-color: f1f8ff'>다시 질문</span>하고 다시 요청하고 다음에도 필요해요 
+
 ## :pushpin: Features
 - 프로젝트 일정 관리
 - 팀원 과의 소통
@@ -21,6 +28,9 @@ re:Q는 팀 활동에서 우리의 솔직함을 이끌어 낼 수 있는 여러�
   - 팀원 모두가 볼 수 있는 자유 게시판
 ## :people_hugging: Authors
 - [@Green](https://github.com/migusdn) | [@Liv](https://github.com/migusdn) | [@Noah](https://github.com/migusdn) | [@Noel](https://github.com/migusdn) | [@Sia](https://github.com/migusdn) | [@Woody](https://github.com/migusdn)
+
+## :computer: Screenshots
+
 
 ## Demo
 Notion Link
