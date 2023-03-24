@@ -31,7 +31,7 @@ re:Q는 나와 우리를 아래처럼 부르기로 했어요.
 
 ![reQDescription](https://user-images.githubusercontent.com/44918187/227508335-2ee71243-6fe5-4535-b512-2a5bfbd48381.png)
 
-## ![yellow](https://user-images.githubusercontent.com/44918187/227517046-cdd74c19-f0eb-47c8-b599-ed05d1622210.png) re:Q의 감정도장
+## ![navy](https://user-images.githubusercontent.com/44918187/227517303-7c425ba3-6ede-489e-924e-556be7c58c43.png) re:Q의 감정도장
 re:Q의 감정도장을 여러분께 소개해드릴께요.
 ![자산 11](https://user-images.githubusercontent.com/44918187/227509011-569fd8c5-9095-41b3-ba5f-499b04a84896.png)
 
