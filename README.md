@@ -18,7 +18,7 @@ re:Q는 팀 활동에서 우리의 솔직함을 이끌어 낼 수 있는 여러�
 ## re:Q
 
 ### 're question', 're quest', 're quire'
-### 우리는 <span style='background-color: f1f8ff'>다시 질문</span>하고 다시 요청하고 다음에도 필요해요 
+<h3>우리는 <span style='background-color: #f1f8ff'>다시 질문</span>하고 다시 요청하고 다음에도 필요해요</h3> 
 
 ## :pushpin: Features
 - 프로젝트 일정 관리
