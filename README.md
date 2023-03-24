@@ -54,4 +54,4 @@ re:Q의 감정도장을 여러분께 소개해드릴께요.
 
 
 ## Demo
-Notion Link
+Try It!!! Notion Link
