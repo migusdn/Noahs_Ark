@@ -1,6 +1,9 @@
 
 ![Logo](https://user-images.githubusercontent.com/44918187/227492031-53009c6c-ce67-4f5a-9ef7-a4d5af23951d.png)
-# ![icon](https://user-images.githubusercontent.com/44918187/226564505-cdffa7b6-71d1-499f-97d2-6b1c85205ddc.png){width=50} re:Q
+<div>
+    <img src="https://user-images.githubusercontent.com/44918187/226564505-cdffa7b6-71d1-499f-97d2-6b1c85205ddc.png" width="50">
+    <label style="font-size: xxx-large">&nbsp;re:Q</label>
+</div>
 Apple Developer Academy @ POSTECH, Afternoon Session 6 team's MC1 Project
 
 팀 활동에서의 "솔직함" 이란 무엇일까요?  
