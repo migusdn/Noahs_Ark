@@ -40,6 +40,7 @@ re:Q의 감정도장을 여러분께 소개해드릴께요.
 <img src="https://user-images.githubusercontent.com/44918187/227511042-571530a6-0bae-49e5-9633-8ca2ed69be84.png" width="49%" align="left" ><img src="https://user-images.githubusercontent.com/44918187/227511044-390eaade-f49e-41f1-aa07-15aeaa60016e.png" width="49%" align="right">
 <img src="https://user-images.githubusercontent.com/44918187/227511048-c7ad7c3e-9d50-436b-bd60-7ebd15f62c27.png" width="49%" align="left" ><img src="https://user-images.githubusercontent.com/44918187/227511050-fa3ff2ea-e4a0-41d4-89c7-2810209d6296.png" width="49%" align="right">
 &nbsp;
+
 ## :pushpin: Features
 - 프로젝트 일정 관리
 - 팀원 과의 소통
