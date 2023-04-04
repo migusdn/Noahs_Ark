@@ -48,7 +48,7 @@ re:Q의 감정도장을 여러분께 소개해드릴께요.
   - 프로필 구성을 통한 개인 연락처 제공
   - 팀원 모두가 볼 수 있는 자유 게시판
 ## :people_hugging: Authors
-- [@Green](https://github.com/migusdn) | [@Liv](https://github.com/migusdn) | [@Noah](https://github.com/migusdn) | [@Noel](https://github.com/migusdn) | [@Sia](https://github.com/migusdn) | [@Woody](https://github.com/migusdn)
+- [@Green](https://github.com/migusdn) | [@Liv](https://github.com/migusdn) | [@Noah](https://github.com/migusdn) | [@Noel](https://github.com/migusdn) | [@Sia](https://github.com/hansn777) | [@Woody](https://github.com/migusdn)
 
 ## :computer: Screenshots
 
