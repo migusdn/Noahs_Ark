@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Profile Card Generator</title>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/font-applesdgothicneo@1.0/all.min.css">
+    <link href="style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+ <div class="container">
+  <div id="profile">
+    <img id="profile_img" src="noel.png" alt="">
+    <div id="name">
+        가나다
+    </div>
+    <div id="description">
+        시각적인 코딩을 즐겨하는 개발자 지망생 입니다
+    </div>
+
+  </div>
+  <div id="contents">
+      <div class="section">
+          <div class="field">잘하는 것</div>
+          <div class="text">나는 다 잘해</div>
+      </div>
+      <div class="section">
+          <div class="field">연락처</div>
+          <div class="text">010-0000-0000</div>
+      </div>
+      <div class="section">
+          <div class="field">메일</div>
+          <div href="" class="text">asdfef@namver.com</div>
+      </div>
+      <div class="section">
+          <div class="field">좋아하는 것</div>
+          <div class="text">나는 다 좋아</div>
+      </div>
+  </div>
+ </div>
+ <form id="hidden">
+ <label>프로필 이미지 링크: </label><input id="profilesrc" type="text">
+ <br>
+ <label>본명(닉네임): </label><input id="fullname">
+ <br>
+ <label>설명: </label><input id="desc_text">
+ <br>
+ <label>잘하는 것: </label><input id="well">
+ <br>
+ <label>연락처: </label><input id="phone">
+ <br>
+ <label>메일: </label><input id="mail">
+ <br>
+ <label>좋아하는 것: </label><input id="like">
+     <br>
+     <button type="button" id="submit">
+         만들기!
+     </button>
+     <p id="result"></p>
+     <button id="copy">클립보드로 복사하기</button>
+ </form>
+
+
+<script>
+    var urlParams = new URL(location.href).searchParams;
+    if(urlParams.get('fullname')!=null){
+        var elem = document.getElementById('hidden');
+        elem.style.display='none';
+        var fullName = urlParams.get('fullname');
+        var imageSrc = urlParams.get('profileimg');
+        var descText = urlParams.get('desctext');
+        var well = urlParams.get('well');
+        var phone = urlParams.get('phone');
+        var mail = urlParams.get('mail');
+        var like = urlParams.get('like');
+        document.getElementById('profile_img').src =imageSrc;
+        document.querySelector("#name").innerText=fullName;
+        document.querySelector("#description").innerText=descText;
+        document.querySelector("#contents > div:nth-child(1) > div.text").innerText=well;
+        document.querySelector("#contents > div:nth-child(2) > div.text").innerText=phone;
+        document.querySelector("#contents > div:nth-child(3) > div.text").innerText=mail;
+        document.querySelector("#contents > div:nth-child(4) > div.text").innerText=like;
+    }
+    document.getElementById('submit').addEventListener('click',(e)=>{
+        var data = {
+            profileimg: document.querySelector("#profilesrc").value,
+            fullname: document.getElementById('fullname').value,
+            desctext: document.getElementById('desc_text').value,
+            well:document.getElementById('well').value,
+            phone:document.getElementById('phone').value,
+            mail:document.getElementById('mail').value,
+            like:document.getElementById('like').value
+        }
+        document.getElementById('result').innerText=
+        location.href+'?'+encodeData(data);
+    });
+    document.getElementById('copy').addEventListener('click',(e)=>{
+        var copyText = document.getElementById('result');
+        navigator.clipboard.writeText(copyText.innerText).then(res=>{
+            alert("텍스트가 복사되었습니다!.");
+        });
+        e.preventDefault();
+    })
+    function encodeData(data) {
+        return Object.keys(data).map(function(key) {
+            return [key, data[key]].map(encodeURIComponent).join("=");
+        }).join("&");
+    }
+
+</script>
+</body>
+</html>
