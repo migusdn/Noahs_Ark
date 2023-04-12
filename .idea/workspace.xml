@@ -4,8 +4,70 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6fb55f7-a794-49dd-a792-84eb5e62d392" name="Changes" comment="edit readme">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="b6fb55f7-a794-49dd-a792-84eb5e62d392" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MC2_Part2/MC1NoahArk.swiftpm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameBGM.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Noahs_Ark.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Final_Last.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/FromStory1To11.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Game_ClickSound.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Game_OurSignoel.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Game_QuizAnswerSound.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Game_WhileQuizSolving.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/game_timeout.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/lastsong2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story0_Chulssuk.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story0_GameLoading.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story0_ggirook.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story0_noa's song.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story0_noa's_song.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story0_게임로딩화면.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story0_끼룩.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story0_철썩.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story10_DontYouKnow.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story10_모르신다구요-!.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story11_LetUsIntroduce.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story11_그럼저희를 소개해.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story1_MaskOn.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story1_가면을쓰고.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story2_ThunderSound.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story2_WeEachother.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story2_번개소리.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story2_우리는 서로에게.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story2~3_Woongsung.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story2~3_웅성웅성.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story3_TimeGoesOn.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story3_시간이 지나며.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story4_BirdSound.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story4_InTeamMember'sMind.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story4_inteammembersmind2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story4_우리는 팀원의 모습 속.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story4_참새소리.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story5_Ddegurrrrr.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story5_Shaaaaaaa.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story5_떼구르 노아.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story5_샤아아아아아.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story6_WildTeam.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story6_야생의 우리팀.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story7_Jumadeung.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story7_주마등 ㅅㅂ.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story8_MaskOff.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story8_현재 우리는 가면을 벗고.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story9_YouKnowOurMaskOff.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/story9_여러분은 가면을 벗은 저희의.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/storystartsong2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/마지막 결말 브금.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/스토리 1부터 커튼 닫힐때까지.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/우리시그노엘 흐bgm.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/퀴즈 답 빠밤(나팔)소리.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/퀴즈풀때.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/클릭 소리.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,18 +83,31 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="migusdn(Woody)" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="MC1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NH99GVwBtj06p1u9sZa68eE9nA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -43,6 +118,10 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -58,14 +137,8 @@
       <option name="presentableId" value="Default" />
       <updated>1679309989917</updated>
       <workItem from="1679309991103" duration="24160000" />
-      <workItem from="1679650749829" duration="8859000" />
-    </task>
-    <task id="LOCAL-00012" summary="fix">
-      <created>1679361693855</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1679361693855</updated>
+      <workItem from="1679650749829" duration="9898000" />
+      <workItem from="1680708737712" duration="1222000" />
     </task>
     <task id="LOCAL-00013" summary="fix">
       <created>1679361962544</created>
@@ -403,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679659659932</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="edit readme">
+      <created>1679659724563</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1679659724563</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,12 +501,18 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ddd" />
     <MESSAGE value="dddd" />
     <MESSAGE value="asdfasdfsadf" />
     <MESSAGE value="fix" />
     <MESSAGE value="fix responsive style" />
     <MESSAGE value="edit readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit readme" />
+    <MESSAGE value="Modify project structure and add MC2 project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify project structure and add MC2 project" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
